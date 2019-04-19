@@ -1,0 +1,11 @@
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\bin\Debug\Woorden-Applicatie.exe.config
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\bin\Debug\Woorden-Applicatie.exe
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\bin\Debug\Woorden-Applicatie.pdb
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden-Applicatie.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden_Applicatie.Form1.resources
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden_Applicatie.Form2.resources
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden_Applicatie.Properties.Resources.resources
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden-Applicatie.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden-Applicatie.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden-Applicatie.exe
+C:\Users\yassi\Desktop\Woorden-Applicatie\Woorden-Applicatie\obj\Debug\Woorden-Applicatie.pdb
